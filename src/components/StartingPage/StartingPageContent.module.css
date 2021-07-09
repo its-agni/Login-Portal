@@ -1,0 +1,10 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  margin-bottom: 20px;
+  margin-top: 30px;
+  font-size: 75px;
+}
